@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Use left arrow to go back!
+"Change is needed;Not always" - megha
